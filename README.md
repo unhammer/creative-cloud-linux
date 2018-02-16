@@ -1,4 +1,4 @@
-# Creative Cloud for PlayOnLinux
+# Creative Cloud for PlayOnLinux (classic version)
 
 **NOTE: This is the older install script, which can't run the latest version of Photoshop CC (and some other new apps). Only use this version if you are having issues with [the new installer](https://github.com/corbindavenport/creative-cloud-linux). You can have both versions installed at the same time.**
 
@@ -13,7 +13,7 @@ A (free) Adobe ID is required to install additional applications. Most Adobe app
 ## How to use this script
 
 1. Download PlayOnLinux from your distribution's package manager (e.g. Ubuntu Software Center) or from [the PlayOnLinux website](https://www.playonlinux.com/en/download.html)
-2. Save the [install script](https://raw.githubusercontent.com/corbindavenport/creative-cloud-linux/master/creativecloud.sh) to your computer
+2. Save the [install script](https://raw.githubusercontent.com/corbindavenport/creative-cloud-linux/classic/creativecloud.sh) to your computer
 3. Open PlayOnLinux, go to Tools > Run a local script
 4. Select the install script you just downloaded
 
