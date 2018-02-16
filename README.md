@@ -1,5 +1,7 @@
 # Creative Cloud for PlayOnLinux
 
+**NOTE: This is the older install script, which can't run the latest version of Photoshop CC (and some other new apps). Only use this version if you are having issues with [the new installer](https://github.com/corbindavenport/creative-cloud-linux). You can have both versions installed at the same time.**
+
 This is an install script for [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html), designed to be used with [PlayOnLinux](https://www.playonlinux.com). This downloads and installs the Creative Cloud software from Adobe's website. Once setup is completed, you can use the Adobe Application Manager to download and install Photoshop, Dreamweaver, Illustrator, and other apps.
 
 **NOTE:** Only Application Manager, Photoshop CC 2015, and Lightroom 5 have been extensively tested. This method does not allow the installation of CC 2017 applications, only the earlier 2015 versions. Support for newer Adobe applications is currently [in development](https://github.com/corbindavenport/creative-cloud-linux/tree/dev).
