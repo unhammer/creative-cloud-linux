@@ -1,25 +1,18 @@
-# Creative Cloud for PlayOnLinux
+# WIP: Adobe Lightroom 6 Classic for PlayOnLinux
 
-This is an install script for [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html), designed to be used with [PlayOnLinux](https://www.playonlinux.com). The script sets up the Adobe Creative Cloud desktop program, which can be used to install and update Photoshop, Lightroom, Dreamweaver, Illustrator, and other apps.
+This is an install script for [Adobe Lightroom 6 Classic](https://helpx.adobe.com/lightroom/kb/lightroom-downloads.html), designed to be used with [PlayOnLinux](https://www.playonlinux.com).
 
-**NOTE:** Only Photoshop CC, Bridge CC, Lightroom 5, and the Creative Cloud manager have been extensively tested. The newest Lightroom CC app is not supported right now. File syncing currently [does not work](https://github.com/corbindavenport/creative-cloud-linux/issues/29).
-
-![Photoshop CC Screenshot](https://i.imgur.com/0JUQYuR.png)
-
-A (free) Adobe ID is required. Most Adobe applications require [a paid subscription](https://www.adobe.com/creativecloud/plans.html).
+**Does not work yet**, see details in lightroom6.sh and
+https://www.playonlinux.com/en/topic-15708.html
 
 ## How to use this script
 
 1. Download PlayOnLinux from your distribution's package manager (e.g. Ubuntu Software Center) or from [the PlayOnLinux website](https://www.playonlinux.com/en/download.html)
-2. Save the [install script](https://raw.githubusercontent.com/corbindavenport/creative-cloud-linux/master/creativecloud.sh) to your computer
+2. Save the [install script](https://raw.githubusercontent.com/unhammer/lr6-linux/master/lightroom6.sh) to your computer
 3. Open PlayOnLinux, go to Tools > Run a local script
 4. Select the install script you just downloaded
 
-After the setup process is finished, you can open `Adobe Creative Cloud` from PlayOnLinux to download and install the apps you need. After you download an app, you can add a PlayOnLinux shortcut for it by clicking Adobe Application Manager in the app list, clicking `Configure`, and clicking `Make a new shortcut from this virtual drive`. Then look for the app you need, like Photoshop.exe, and add it.
-
-**Tip:** Tooltips in Photoshop might not disappear automatically. You can turn off tooltips completely by going to `Edit > Preferences > Tools` and un-checking the `Show tooltips` box.
-
-If the installer crashes, see the [Troubleshooting page](https://github.com/corbindavenport/creative-cloud-linux/wiki/Troubleshooting). If you still have issues, try [the classic script](https://github.com/corbindavenport/creative-cloud-linux/tree/classic).
+After the setup process is finished, you can try to open `Adobe Lightroom 6` from PlayOnLinux.
 
 ---------------------------------------
 
